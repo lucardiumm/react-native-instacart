@@ -1,0 +1,15 @@
+export const colors = {
+    light: '#F9FAFB',
+    blue: '#4FC0E8',
+    text: '#86868f',
+    white: '#FFFFFF',
+    dark: '#121212',
+    border: '#E9EAEC',
+    loading: '#808080',
+    handle: '#EEEFF2',
+    darkGreen: '#013D2B',
+    switchBackground: '#265B4950',
+    buttonGreen: '#108910',
+    buttonGray: '#E8E9EB',
+    darkText: '#25262A',
+}
